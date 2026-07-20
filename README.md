@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Aiyshwariya Paulvannan Kanmani 👋
 
-<!--
-**Aiyshwariya/Aiyshwariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 PhD student in Civil Engineering (AI track) at **Texas A&M University**, working on
+AI/ML for environmental sustainability — multimodal and geospatial AI for community and
+ecosystem resilience.
 
-Here are some ideas to get you started:
+🔗 **Website:** [aiyshwariya.github.io](https://aiyshwariya.github.io/) &nbsp;·&nbsp; 💼 **LinkedIn:** [linkedin.com/in/aiyshwariya](https://www.linkedin.com/in/aiyshwariya)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Previously: Applied Scientist at Amazon · American Airlines · MS at Purdue · BTech at IIT Madras._
+
+---
+
+- 🔭 **Currently working on:** wildfire spread modeling
+- 🧠 **Currently learning:** graph neural networks
+- 🤝 **Looking to collaborate on:** research at the intersection of AI & environmental issues
+- 🤔 **Looking for:** future opportunities to address climate change
+- 💬 **Ask me about:** tech mentorship, career-transition chats
+- 📫 **Reach me:** aiyshwariya@tamu.edu
+- 👤 **Pronouns:** she/her/hers
